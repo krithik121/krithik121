@@ -116,7 +116,7 @@ To become a skilled **Cybersecurity Professional**, understand cyber threats, ex
 |:---|:---|:---|
 | B.Tech IT | Saveetha Engineering College | Pursuing |
 | 12th Standard | SBOA School and Junior College | 333/500 (66.6%) |
-| 11th Standard | SBOA School and Junior College | 389/500 (77.8%) |
+| 10th Standard | SBOA School and Junior College | 389/500 (77.8%) |
 
 **12th Standard:** Computer Science Stream
 
